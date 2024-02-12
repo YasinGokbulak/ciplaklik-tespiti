@@ -14,3 +14,5 @@ print(is_nude)
 # score() metodu 0-1 aralığında bir değer döner.
 nudity_score = nudity.score(image_path)
 print(nudity_score)
+
+# Bu dosya test dosyasıdır.
